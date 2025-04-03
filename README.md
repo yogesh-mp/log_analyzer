@@ -20,7 +20,7 @@ The **Log File Analyzer** is a Python-based tool designed to read, parse, and an
 
 ## 📁 Project Structure
 ```
-  log_analyzer_project/ 
+  log_analyzer/ 
        │── log_analyzer/ 
              ├── main.py  
              ├── parser.py  
@@ -41,8 +41,8 @@ The **Log File Analyzer** is a Python-based tool designed to read, parse, and an
 ## ⚙️ Setup Instructions
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yogesh-mp/log_parser.git
-cd log_parser
+git clone https://github.com/yogesh-mp/log_analyzer.git
+cd log_analyzer
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
