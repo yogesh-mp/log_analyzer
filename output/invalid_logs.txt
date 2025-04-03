@@ -1,0 +1,20 @@
+INVALID LINE WITHOUT PROPER FORMAT
+2023-03-02 10:16:20 - ServiceF - INFO -
+2023-03-02 10:17:35 - ??? - ERROR - Unknown service encountered
+2023-03-02 10:18:00 - ServiceG - WARN
+2023-03-02 - ServiceI - ERROR - Missing timestamp
+2023-03-02 10:20:00 - - INFO - Empty service name
+MALFORMED LOG ENTRY
+MISSING LOG LEVEL
+INVALID - 2023-03-02 - ERROR - No service name
+INVALID LINE WITHOUT PROPER FORMAT
+2023-03-02 10:16:20 - ServiceF - INFO -
+2023-03-02 10:17:35 - ??? - ERROR - Unknown service encountered
+2023-03-02 10:18:00 - ServiceG - WARN
+2023-03-02 - ServiceI - ERROR - Missing timestamp
+2023-03-02 10:20:00 - - INFO - Empty service name
+MALFORMED LOG ENTRY
+MISSING LOG LEVEL
+INVALID - 2023-03-02 - ERROR - No service name
+
+Malformed log entry without proper format

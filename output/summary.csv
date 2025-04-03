@@ -1,0 +1,31 @@
+Category,Type,Count
+Log Levels,INFO,17
+Log Levels,ERROR,13
+Log Levels,WARN,9
+Log Levels,DEBUG,6
+Services,ServiceX,4
+Services,ServiceY,3
+Services,ServiceZ,2
+Services,ServiceA,2
+Services,ServiceB,2
+Services,ServiceC,2
+Services,ServiceD,2
+Services,ServiceE,3
+Services,ServiceH,2
+Services,ServiceJ,2
+Services,ServiceK,2
+Services,ServiceL,2
+Services,ServiceM,2
+Services,ServiceN,2
+Services,ServiceO,2
+Services,ServiceP,2
+Services,ServiceQ,1
+Services,ServiceR,1
+Services,ServiceS,1
+Services,ServiceT,1
+Services,ServiceU,1
+Services,ServiceV,1
+Services,ServiceW,1
+Services,ServiceF,1
+Services,ServiceG,1
+Most Common Error,Authentication failure,2
