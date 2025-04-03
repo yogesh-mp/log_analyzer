@@ -1,0 +1,26 @@
+# Ignore all hidden directories (starting with a dot)
+.*
+
+# Allow the .git directory explicitly
+!.git/
+
+# Ignore virtual environment directories
+venv/
+env/
+.virtualenv/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and output files
+logs/
+*.log
+output/
+*.csv
